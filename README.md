@@ -1,2 +1,2 @@
 # USA-Population-Clock
-This is an extension for Google CHrome that shows the United States population clock.
+This is an extension for Google Chrome that shows the United States population clock.
